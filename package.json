@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "init": "node cli.js init",
+    "tailwind": "node cli.js tailwind",
     "lint": "eslint .",
     "preview": "vite preview"
   },
